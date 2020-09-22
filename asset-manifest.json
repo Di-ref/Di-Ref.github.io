@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Di-Ref.github.io/static/css/main.49406c35.chunk.css",
+    "main.js": "/Di-Ref.github.io/static/js/main.905f22e0.chunk.js",
+    "main.js.map": "/Di-Ref.github.io/static/js/main.905f22e0.chunk.js.map",
+    "runtime-main.js": "/Di-Ref.github.io/static/js/runtime-main.f7f610d6.js",
+    "runtime-main.js.map": "/Di-Ref.github.io/static/js/runtime-main.f7f610d6.js.map",
+    "static/js/2.bd6892b4.chunk.js": "/Di-Ref.github.io/static/js/2.bd6892b4.chunk.js",
+    "static/js/2.bd6892b4.chunk.js.map": "/Di-Ref.github.io/static/js/2.bd6892b4.chunk.js.map",
+    "index.html": "/Di-Ref.github.io/index.html",
+    "precache-manifest.643c55552166cff7beb87b40fa32838b.js": "/Di-Ref.github.io/precache-manifest.643c55552166cff7beb87b40fa32838b.js",
+    "service-worker.js": "/Di-Ref.github.io/service-worker.js",
+    "static/css/main.49406c35.chunk.css.map": "/Di-Ref.github.io/static/css/main.49406c35.chunk.css.map",
+    "static/js/2.bd6892b4.chunk.js.LICENSE.txt": "/Di-Ref.github.io/static/js/2.bd6892b4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Di-Ref.github.io/static/media/streettrees.29a15ef2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7f610d6.js",
+    "static/js/2.bd6892b4.chunk.js",
+    "static/css/main.49406c35.chunk.css",
+    "static/js/main.905f22e0.chunk.js"
+  ]
+}

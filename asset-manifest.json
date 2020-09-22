@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Di-Ref.github.io/static/css/main.49406c35.chunk.css",
-    "main.js": "/Di-Ref.github.io/static/js/main.905f22e0.chunk.js",
-    "main.js.map": "/Di-Ref.github.io/static/js/main.905f22e0.chunk.js.map",
-    "runtime-main.js": "/Di-Ref.github.io/static/js/runtime-main.f7f610d6.js",
-    "runtime-main.js.map": "/Di-Ref.github.io/static/js/runtime-main.f7f610d6.js.map",
-    "static/js/2.bd6892b4.chunk.js": "/Di-Ref.github.io/static/js/2.bd6892b4.chunk.js",
-    "static/js/2.bd6892b4.chunk.js.map": "/Di-Ref.github.io/static/js/2.bd6892b4.chunk.js.map",
-    "index.html": "/Di-Ref.github.io/index.html",
-    "precache-manifest.643c55552166cff7beb87b40fa32838b.js": "/Di-Ref.github.io/precache-manifest.643c55552166cff7beb87b40fa32838b.js",
-    "service-worker.js": "/Di-Ref.github.io/service-worker.js",
-    "static/css/main.49406c35.chunk.css.map": "/Di-Ref.github.io/static/css/main.49406c35.chunk.css.map",
-    "static/js/2.bd6892b4.chunk.js.LICENSE.txt": "/Di-Ref.github.io/static/js/2.bd6892b4.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Di-Ref.github.io/static/media/streettrees.29a15ef2.jpg"
+    "main.css": "/di-ref/static/css/main.e5d61ae5.chunk.css",
+    "main.js": "/di-ref/static/js/main.15ba09da.chunk.js",
+    "main.js.map": "/di-ref/static/js/main.15ba09da.chunk.js.map",
+    "runtime-main.js": "/di-ref/static/js/runtime-main.d9f56339.js",
+    "runtime-main.js.map": "/di-ref/static/js/runtime-main.d9f56339.js.map",
+    "static/js/2.dc88ec9c.chunk.js": "/di-ref/static/js/2.dc88ec9c.chunk.js",
+    "static/js/2.dc88ec9c.chunk.js.map": "/di-ref/static/js/2.dc88ec9c.chunk.js.map",
+    "index.html": "/di-ref/index.html",
+    "precache-manifest.252d217d752c10203ac98d260516a06c.js": "/di-ref/precache-manifest.252d217d752c10203ac98d260516a06c.js",
+    "service-worker.js": "/di-ref/service-worker.js",
+    "static/css/main.e5d61ae5.chunk.css.map": "/di-ref/static/css/main.e5d61ae5.chunk.css.map",
+    "static/js/2.dc88ec9c.chunk.js.LICENSE.txt": "/di-ref/static/js/2.dc88ec9c.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/di-ref/static/media/streettrees.29a15ef2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7f610d6.js",
-    "static/js/2.bd6892b4.chunk.js",
-    "static/css/main.49406c35.chunk.css",
-    "static/js/main.905f22e0.chunk.js"
+    "static/js/runtime-main.d9f56339.js",
+    "static/js/2.dc88ec9c.chunk.js",
+    "static/css/main.e5d61ae5.chunk.css",
+    "static/js/main.15ba09da.chunk.js"
   ]
 }
